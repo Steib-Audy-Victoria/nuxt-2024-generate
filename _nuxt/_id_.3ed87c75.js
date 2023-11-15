@@ -1,0 +1,1 @@
+import{D as t,c as s,t as a,x as c,d as r}from"./entry.a5a516b0.js";const o={class:"p-recipes-id"},d={__name:"[id]",setup(i){const e=t();return(n,p)=>(r(),s("div",o,"recette avec l'id : "+a(c(e).params.id),1))}};export{d as default};

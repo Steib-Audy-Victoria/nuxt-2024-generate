@@ -1,0 +1,1 @@
+import{_ as e,c as t,d as c,f as o}from"./entry.a5a516b0.js";const s={},a={class:"p-about"},n=o("p",null,"Page de contact",-1),_=[n];function r(d,f){return c(),t("div",a,_)}const l=e(s,[["render",r]]);export{l as default};
